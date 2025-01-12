@@ -1,5 +1,5 @@
 #USER FOLDER
-files_temp
+.files_temp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
